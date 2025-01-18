@@ -203,7 +203,7 @@ function App() {
         />
       </Modal>
 
-      {/* Delete Confirmation Modal */}
+      {/* Delete Confirmation Modal  */}
       <Modal
         title="Delete Task"
         visible={isDeleteModal}
