@@ -1,0 +1,13 @@
+.ant-select-selection-item {
+  display: flex;
+  font-size: 21px;
+}
+
+.ant-select-outlined .ant-select-selector:not(.ant-select-customize-input) {
+  background-color: #cccedf;
+  color: black;
+}
+
+/* .ant-checkbox .ant-checkbox-inner {
+  background-color: #dfe0e0;
+} */
